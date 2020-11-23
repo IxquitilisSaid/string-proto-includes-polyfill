@@ -1,0 +1,24 @@
+{
+  "name": "@nggondolas/string-proto-includes-polyfill",
+  "version": "1.0.0",
+  "description": "Polyfill for IE11 String.prototype.includes method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IxquitilisSaid/string-proto-includes-polyfill.git"
+  },
+  "keywords": [
+    "IE11",
+    "Polyfill",
+    "includes"
+  ],
+  "author": "Jaime 'Gondola' Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IxquitilisSaid/string-proto-includes-polyfill/issues"
+  },
+  "homepage": "https://github.com/IxquitilisSaid/string-proto-includes-polyfill#readme"
+}
